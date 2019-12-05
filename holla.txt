@@ -1,4 +1,4 @@
 'Hola mundo!'
-gue tal
+Cambio 05.12
 Новая строка
 Nueva pagina 05.12!

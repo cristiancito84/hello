@@ -1,4 +1,2 @@
-'Hola mundo!'
-Cambio 05.12
-Новая строка
-Nueva pagina 05.12!
+'Cambios 07.12
+Nuevo 07.12
